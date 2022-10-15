@@ -1,0 +1,12 @@
+@import 'primevue/resources/primevue.css';
+@import 'primevue/resources/themes/tailwind-light/theme.css';
+@import 'primeicons/primeicons.css';
+
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/brands.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
